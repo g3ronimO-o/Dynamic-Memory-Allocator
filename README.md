@@ -1,7 +1,8 @@
 # Dynamic-Memory-Allocator
 
 
-This problem is based on the implementation of Doubly Linked Lists, Binary Search Trees and Balanced Binary Search Trees (AVL Trees) in order to create a system to perform Memory Allocation. Memory Allocation in simple terms means the reservation of portions of the Computer memory for execution of processes. Thus, this system will be running on our machines and it will give out memories to the programs as requested by them.
+This problem is based on the implementation of Doubly Linked Lists, Binary Search Trees and Balanced Binary Search Trees (AVL Trees) in order to create a system to perform Memory Allocation. Memory Allocation in simple terms means the reservation of portions of the Computer memory for execution of processes. Thus, this system will be running on our machines and it will give out memories to the programs as requested by them
+
 We design a dynamic memory allocation system. In this the system does not exactly know the amount of memory required. And so in this case, it would get requested for memory dynamically.
 
 There are two algorithms that have leveraged to perform the task of fragmentation and defragmentation of memory blocks. They are:
